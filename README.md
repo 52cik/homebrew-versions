@@ -12,10 +12,10 @@ $ brew tap 52cik/homebrew-versions
 
 ## 使用
 
-添加源后即可安装软件，例如安装 node5
+添加源后即可安装软件，例如安装 node6
 
 ``` sh
-$ brew cask install node5
+$ brew cask install node6
 ```
 
 通过淘宝镜像安装，几乎秒装。
@@ -32,5 +32,6 @@ $ brew update
 
 \# | 名称 | 版本 | 描述
 :-- | :-- | :-- | :--
-1 | **node4** | 4.4.2 | 淘宝镜像地址
-2 | **node5** | 5.10.0 | 淘宝镜像地址
+1 | **node4** | 4.4.4  | 淘宝镜像地址
+2 | **node5** | 5.11.1 | 淘宝镜像地址
+3 | **node6** | 6.1.0  | 淘宝镜像地址
