@@ -1,6 +1,6 @@
 cask 'node5' do
-  version '5.11.1'
-  sha256 'f06c2d54057c55913749991a6636e78c4180b989a6ee67bdc0017252bfc6c9c9'
+  version '5.12.0'
+  sha256 '8835e19bff36fe2a0120e8b189aa33ea87e99eb8b08605212a5ddb8fb63bcaf2'
 
   url "http://npm.taobao.org/mirrors/node/v#{version}/node-v#{version}.pkg"
   name 'Node.js'
