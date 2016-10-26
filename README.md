@@ -27,7 +27,7 @@ $ brew cask install node6
 $ brew update
 ```
 
-*天朝用户如果 `brew update` 直接更新非常慢的话，推荐用下面方法:*
+**天朝用户如果 `brew update` 直接更新非常慢的话，推荐用下面方法:**
 
 ``` sh
 $ brew untap 52cik/homebrew-versions # 移除源
