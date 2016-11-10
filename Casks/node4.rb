@@ -1,6 +1,6 @@
 cask 'node4' do
-  version '4.6.1'
-  sha256 'ccf029983486ba15394bd7cf4dd23b19cd371ec58f58d60897e72d156556e8c2'
+  version '4.6.2'
+  sha256 'a25a61f920ca6406e525d955b89ac6347a2d9dc1d80ae6cc0f6ceb50fb8d5e30'
 
   # https://npm.taobao.org/mirrors/node/latest-v4.x/SHASUMS256.txt
 
