@@ -1,6 +1,6 @@
 cask 'node7' do
-  version '7.3.0'
-  sha256 '8c8485544dd10e99a0b5069fbe6b7a1fb8dfd555cd51ab7ba78a412ce3011498'
+  version '7.4.0'
+  sha256 'c2dc012f5d8c58116ac2916e3961461db4dddacf63e19cff6d9787afd2e1169b'
 
   # https://npm.taobao.org/mirrors/node/latest-v7.x/SHASUMS256.txt
 
