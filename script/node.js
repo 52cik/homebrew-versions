@@ -16,6 +16,10 @@ const versions = {
     file: 'node7.rb',
     url: 'https://npm.taobao.org/mirrors/node/latest-v7.x/SHASUMS256.txt',
   },
+  node8: {
+    file: 'node8.rb',
+    url: 'https://npm.taobao.org/mirrors/node/latest-v8.x/SHASUMS256.txt',
+  },
 };
 
 
