@@ -1,6 +1,6 @@
 cask 'node8' do
-  version '8.9.0'
-  sha256 'f5d47ba3acc7de5d8449e5e07d077ae77d9590e0197c6a6dedfdab75ba0c7a82'
+  version '8.9.1'
+  sha256 'faa6397688c11458ad220c363898bd5028f1dbcf626dbe9be1c9d1d16f695e0d'
 
   # https://npm.taobao.org/mirrors/node/latest-v8.x/SHASUMS256.txt
 
