@@ -45,6 +45,7 @@ $ brew tap 52cik/homebrew-versions   # 添加源
 4 | **node7** | 7.10.1 | 淘宝镜像地址 (No LTS)
 5 | **node8** | 8.11.1 | 淘宝镜像地址 (LTS 持续更新到 2019-04-01, 维护到 2019-12-01)
 5 | **node9** | 9.11.1 | 淘宝镜像地址 (No LTS)
+5 | **node10** | 10.0.0 | 淘宝镜像地址 (LTS 持续更新到 2020-04-01, 维护到 2021-04-01)
 
 [LTS schedule](https://github.com/nodejs/LTS#lts-schedule1)
 

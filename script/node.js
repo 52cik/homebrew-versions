@@ -24,6 +24,10 @@ const versions = {
     file: 'node9.rb',
     url: 'https://npm.taobao.org/mirrors/node/latest-v9.x/SHASUMS256.txt',
   },
+  node10: {
+    file: 'node10.rb',
+    url: 'https://npm.taobao.org/mirrors/node/latest-v10.x/SHASUMS256.txt',
+  },
 };
 
 // 匹配线上版本 hash 值
