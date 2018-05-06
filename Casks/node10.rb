@@ -1,4 +1,4 @@
-cask 'node9' do
+cask 'node10' do
   version '10.0.0'
   sha256 'a681315eb21f3f9509383eaa85ac5695884baa58f062e5ab5d5c25d5e8546911'
 
